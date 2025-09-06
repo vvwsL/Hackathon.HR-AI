@@ -1,0 +1,15 @@
+openai>=1.0.0
+pypandoc>=1.11
+python-docx>=0.8.11
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+opencv-python>=4.8.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+mediapipe>=0.10.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+deepface>=0.0.79
+reportlab>=4.0.0
